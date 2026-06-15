@@ -2999,6 +2999,31 @@
                     return true;
                 });
             }
+            function presetHasResults(preset) {
+                const saved = state.filters.date;
+                state.filters.date = preset;
+                const count = applyFilters(state.data).length;
+                state.filters.date = saved;
+                return count > 0;
+            }
+            // "Smart today": on initial load, if today's screenings are already over,
+            // fall forward to the next date preset that has upcoming showings, so the
+            // site is never empty in the evening. An explicit ?date= URL is respected.
+            function applySmartDefaultDate() {
+                const urlDate = new URLSearchParams(window.location.hash.replace(/^#/, "")).get("date");
+                if (datePresets.indexOf(urlDate) >= 0) return;
+                if (state.filters.date !== "today") return;
+                if (presetHasResults("today")) return;
+                const fallback = ["tomorrow", "next-7", "all"].find(function (preset) {
+                    return presetHasResults(preset);
+                });
+                if (fallback) {
+                    state.filters.date = fallback;
+                    if (elements.dateSelect && elements.dateSelect.options.length) {
+                        elements.dateSelect.value = fallback;
+                    }
+                }
+            }
             function getFilmKey(showing) {
                 const keyTitle = (showing.titleEn || showing.titleJp || showing.titleDisplay || "").trim();
                 return showing.tmdbId ? "tmdb-" + showing.tmdbId : "title-" + keyTitle;
@@ -3414,6 +3439,7 @@
                             return showing.dateText >= todayText;
                         });
                         buildFilterOptions(state.data);
+                        applySmartDefaultDate();
                         render();
                     })
                     .catch(function () {
