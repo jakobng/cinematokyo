@@ -1001,7 +1001,7 @@
 <li><a href="https://cinematokyo.com/film/936075-michael/">Michael マイケル</a></li>
 <li><a href="https://cinematokyo.com/film/1494715-new-group/">NEW GROUP</a></li>
 <li><a href="https://cinematokyo.com/film/new-moon-candle-night-vol-93-guest-620d5215/">NEW MOON CANDLE NIGHT vol.93 Guest：七尾旅人</a></li>
-<li><a href="https://cinematokyo.com/film/peak-end-9c12e25c/">PEAK END</a></li>
+<li><a href="https://cinematokyo.com/film/1537860-peak-end/">PEAK END</a></li>
 <li><a href="https://cinematokyo.com/film/peakend-f0ede4c3/">PEAKEND</a></li>
 <li><a href="https://cinematokyo.com/film/playlist-1a73416b/">PLAYLIST アジアの才能</a></li>
 <li><a href="https://cinematokyo.com/film/ryuichi-sakamoto-trio-tour-2012-ee1a137a/">Ryuichi Sakamoto | Trio Tour 2012</a></li>
@@ -1018,6 +1018,7 @@
 <li><a href="https://cinematokyo.com/film/hinata-78866193/">hinata</a></li>
 <li><a href="https://cinematokyo.com/film/1422562-the-moment/">the moment ザ・モーメント</a></li>
 <li><a href="https://cinematokyo.com/film/50183-the-ascent/">Восхождение</a></li>
+<li><a href="https://cinematokyo.com/film/1193128-i-was-a-stranger/">قضية الغرباء</a></li>
 <li><a href="https://cinematokyo.com/film/63647-ghilli/">கில்லி</a></li>
 <li><a href="https://cinematokyo.com/film/504437-sarvam-thaala-mayam/">சர்வம் தாளமயம்</a></li>
 <li><a href="https://cinematokyo.com/film/film-11c14ecf/">―真夜中のジガルタンダ祭り―</a></li>
@@ -1040,7 +1041,6 @@
 <li><a href="https://cinematokyo.com/film/gx3-2839c08e/">『戦姫絶唱シンフォギアＧＸ』アニメ3期オールナイト上映</a></li>
 <li><a href="https://cinematokyo.com/film/4k-611c9a2a/">『汚れた英雄』４Ｋデジタル修復版</a></li>
 <li><a href="https://cinematokyo.com/film/film-cee18cfe/">『火を入れる』『くじらの落下』『ゴルフ』『エイプリルフール』</a></li>
-<li><a href="https://cinematokyo.com/film/film-bec43055/">『牛乳屋フランキー』 ＊デジタル上映</a></li>
 <li><a href="https://cinematokyo.com/film/film-505040f9/">『美しく、黙りなさい』公開記念 デルフィーヌ・セリッグ特集</a></li>
 <li><a href="https://cinematokyo.com/film/film-5443efcd/">『羽織の大将』</a></li>
 <li><a href="https://cinematokyo.com/film/4k-0c2f572b/">『蘇える金狼』４Ｋデジタル修復版</a></li>
@@ -1094,7 +1094,6 @@
 <li><a href="https://cinematokyo.com/film/film-ca247212/">わたしの聖なるインド</a></li>
 <li><a href="https://cinematokyo.com/film/1449997-my-mind-is-always-racing/">わたしの頭はいつもうるさい</a></li>
 <li><a href="https://cinematokyo.com/film/1696868-a-naughty-angel/">わんぱく天使</a></li>
-<li><a href="https://cinematokyo.com/film/1193128-i-was-a-stranger/">アイ・ワズ・ア・ストレンジャー</a></li>
 <li><a href="https://cinematokyo.com/film/752867-the-outwaters/">アウトウォーターズ　裂けた砂漠</a></li>
 <li><a href="https://cinematokyo.com/film/1293858-adam-s-sake/">アダムの原罪</a></li>
 <li><a href="https://cinematokyo.com/film/682012-little-amelie-or-the-character-of-rain/">アメリと雨の物語</a></li>
@@ -1343,6 +1342,7 @@
 <li><a href="https://cinematokyo.com/film/the-space-bears-4-ever-7ae7598f/">熊蟲萬壽無彊 クマムシばんじゅ・きわみなし　The Space Bears 4 Ever　生命の戦略</a></li>
 <li><a href="https://cinematokyo.com/film/the-space-bears-4-ever-96209655/">熊蟲萬壽無彊クマムシばんじゅ・きわみなし The Space Bears 4 Ever 生命の戦略</a></li>
 <li><a href="https://cinematokyo.com/film/1639386-beyond-the-fire-the-life-of-japans-first-pride-parade-pioneer/">熱狂をこえて</a></li>
+<li><a href="https://cinematokyo.com/film/305588-frankie-the-milkman/">牛乳屋フランキー</a></li>
 <li><a href="https://cinematokyo.com/film/972662-romance-express/">特急にっぽん</a></li>
 <li><a href="https://cinematokyo.com/film/360468-how-to-care-for-the-senile/">痴呆性老人の世界</a></li>
 <li><a href="https://cinematokyo.com/film/55847-four-nights-of-a-dreamer/">白夜</a></li>
@@ -2894,9 +2894,9 @@
                         backdropPath: item.tmdb_backdrop_path || "",
                         imageUrl: item.image_url || "",
                         overview: item.synopsis || item.tmdb_overview_jp || "",
-                        overviewEn: item.tmdb_overview_en || item.synopsis_en || "",
+                        overviewEn: item.synopsis_en || item.tmdb_overview_en || "",
                         tmdbId: tmdbId,
-                        letterboxdUrl: buildLetterboxdUrl(item.movie_title_en || item.movie_title || titleJp, tmdbId),
+                        letterboxdUrl: item.letterboxd_url || buildLetterboxdUrl(item.movie_title_en || item.movie_title || titleJp, tmdbId),
                         searchText: [
                             item.movie_title,
                             item.movie_title_en,
