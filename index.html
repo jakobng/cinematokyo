@@ -230,6 +230,25 @@
             font-weight: 700;
             line-height: 1.1;
         }
+        .site-intro {
+            max-width: 72ch;
+            margin: 0 auto 18px;
+            text-align: center;
+            color: var(--muted);
+            font-size: 0.9rem;
+        }
+        .search-guides {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 8px 16px;
+            margin: -10px 0 20px;
+            font-size: 0.8rem;
+        }
+        .search-guides a {
+            color: var(--muted);
+            text-underline-offset: 3px;
+        }
         /* --- NEW TABS --- */
         .view-tabs {
             display: flex;
@@ -824,7 +843,7 @@
     <main class="page">
         <header class="page-header">
             <div class="header-left">
-                <h1 id="site-title"></h1>
+                <h1 id="site-title">東京ミニシアター上映スケジュール</h1>
                 <div class="site-credit" id="site-credit"></div>
                 <div class="lang-toggle" role="group" aria-label="Language">
                     <button class="lang-btn" data-lang="ja" type="button">JP</button>
@@ -842,9 +861,15 @@
                 </a>
             </div>
         </header>
+        <p class="site-intro">東京のミニシアター・名画座・インディペンデント映画館の上映時間を毎日更新。 <span lang="en">Daily independent cinema showtimes across Tokyo.</span></p>
         <nav class="view-tabs">
             <button class="tab-btn" data-view="cinema" type="button" id="view-cinema-btn"></button>
             <button class="tab-btn is-active" data-view="film" type="button" id="view-film-btn"></button>
+        </nav>
+        <nav class="search-guides" aria-label="Popular cinema schedules">
+            <a href="/today/">今日 / Today</a>
+            <a href="/tonight/">今夜 / Tonight</a>
+            <a href="/weekend/">今週末 / This weekend</a>
         </nav>
         <section class="controls-section">
             <div class="primary-controls">
@@ -989,7 +1014,6 @@
 <li><a href="https://cinematokyo.com/film/1697876-break-shot/">BREAK SHOT</a></li>
 <li><a href="https://cinematokyo.com/film/1022238-dead-or-zombie/">DEAD OR ZOMBIE</a></li>
 <li><a href="https://cinematokyo.com/film/46986-flirt/">FLIRT フラート</a></li>
-<li><a href="https://cinematokyo.com/film/flirt-2fe20529/">FLIRT／フラート</a></li>
 <li><a href="https://cinematokyo.com/film/fire-in-water-9327147d/">Fire in Water 永田康祐映像作品集</a></li>
 <li><a href="https://cinematokyo.com/film/464768-junk-head/">JUNK HEAD</a></li>
 <li><a href="https://cinematokyo.com/film/242112-junk-head-1/">JUNK HEAD 1</a></li>
@@ -1040,7 +1064,6 @@
 <li><a href="https://cinematokyo.com/film/532002-beast-alley/">けものみち</a></li>
 <li><a href="https://cinematokyo.com/film/film-84392098/">こぐまとパルマの物語</a></li>
 <li><a href="https://cinematokyo.com/film/1242015-young-mothers/">そして彼女たちは</a></li>
-<li><a href="https://cinematokyo.com/film/film-6da82149/">それいけ！アンパンマン　パンタンと約束の星</a></li>
 <li><a href="https://cinematokyo.com/film/1729116-go-anpanman-pantan-and-the-star-of-promises/">それいけ！アンパンマン　パンタンと約束の星</a></li>
 <li><a href="https://cinematokyo.com/film/355345-little-remi-and-famous-dog-capi/">ちびっ子レミと名犬カピ</a></li>
 <li><a href="https://cinematokyo.com/film/payment-4e620e53/">つぐない payment</a></li>
@@ -1071,7 +1094,6 @@
 <li><a href="https://cinematokyo.com/film/1030653-elis-tom-it-had-to-be-you/">エリス＆トム　ボサノヴァ名盤誕生秘話</a></li>
 <li><a href="https://cinematokyo.com/film/2001-2dfe6923/">エリック・クラプトン　ライヴ・アット・ステイプルズ・センター2001</a></li>
 <li><a href="https://cinematokyo.com/film/live-at-the-staples-center-d7cd3744/">エリック・クラプトン： ライヴ・アット・ステイプルズ・センター２００１（字幕）</a></li>
-<li><a href="https://cinematokyo.com/film/6-9fe045f4/">エレファント6レコーディング・カンパニー</a></li>
 <li><a href="https://cinematokyo.com/film/a-future-history-of-the-elephant-6-recording-co-5fb248ab/">エレファント６レコーディング・カンパニー</a></li>
 <li><a href="https://cinematokyo.com/film/1339713-obsession/">オブセッション　災愛</a></li>
 <li><a href="https://cinematokyo.com/film/1101383-the-end-of-oak-street/">オークストリートの異変</a></li>
@@ -1123,13 +1145,13 @@
 <li><a href="https://cinematokyo.com/film/1187431-where-to-land/">トゥ・ランド</a></li>
 <li><a href="https://cinematokyo.com/film/37291-trust/">トラスト・ミー</a></li>
 <li><a href="https://cinematokyo.com/film/1657017-trophy/">トロフィー</a></li>
-<li><a href="https://cinematokyo.com/film/39107-dragon-ball-z-fusion-reborn/">ドラゴンボールZ 復活のフュージョン!!悟空とベジータ</a></li>
 <li><a href="https://cinematokyo.com/film/503314-dragon-ball-super-broly/">ドラゴンボール超 ブロリー</a></li>
+<li><a href="https://cinematokyo.com/film/39107-dragon-ball-z-fusion-reborn/">ドラゴンボールＺ復活のフュージョン!!悟空とベジータ</a></li>
 <li><a href="https://cinematokyo.com/film/1325734-the-drama/">ドラマなふたり</a></li>
 <li><a href="https://cinematokyo.com/film/film-12d58af3/">ドランクヌードル</a></li>
 <li><a href="https://cinematokyo.com/film/325956-nightshift/">ナイトシフト</a></li>
 <li><a href="https://cinematokyo.com/film/1499101-night-flower/">ナイトフラワー</a></li>
-<li><a href="https://cinematokyo.com/film/964849-nightborn/">ナイトボーン -夜哭-</a></li>
+<li><a href="https://cinematokyo.com/film/964849-nightborn/">ナイトボーン　夜哭</a></li>
 <li><a href="https://cinematokyo.com/film/16976-9-souls/">ナイン・ソウルズ</a></li>
 <li><a href="https://cinematokyo.com/film/1715073-now-and-then/">ナウ・アンド・ゼン</a></li>
 <li><a href="https://cinematokyo.com/film/film-652c3b4f/">ナム・ジュン・パイク</a></li>
@@ -1247,7 +1269,6 @@
 <li><a href="https://cinematokyo.com/film/1024298-the-zen-diary/">土を喰らう十二ヵ月</a></li>
 <li><a href="https://cinematokyo.com/film/660708-il-buco/">地底への旅</a></li>
 <li><a href="https://cinematokyo.com/film/film-8355723f/">声をあげるということ　性犯罪　刑法改正の記録</a></li>
-<li><a href="https://cinematokyo.com/film/film-2cd5cfa8/">声をあげるということ－性犯罪 刑法改正の記録－</a></li>
 <li><a href="https://cinematokyo.com/film/133563-killers-on-parade/">夕陽に赤い俺の顔</a></li>
 <li><a href="https://cinematokyo.com/film/363611-outlaw-gangster-vip-2/">大幹部 無頼</a></li>
 <li><a href="https://cinematokyo.com/film/1464883-the-president-s-cake/">大統領のケーキ</a></li>
@@ -3309,7 +3330,9 @@
                         }
                         var displayOverview = state.lang === "en" ? (film.overviewEn || film.overview) : film.overview;
                         if (displayOverview) {
-                            body.appendChild(createElement("p", "film-blurb", displayOverview));
+                            const blurb = createElement("p", "film-blurb", displayOverview);
+                            blurb.setAttribute("data-nosnippet", "");
+                            body.appendChild(blurb);
                         }
                         if (film.formatTags.length) {
                             const tagRow = createElement("div", "tag-row");
