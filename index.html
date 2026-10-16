@@ -850,6 +850,7 @@
             <button class="tab-btn" data-view="cinema" type="button" id="view-cinema-btn" aria-pressed="false"></button>
             <button class="tab-btn is-active" data-view="film" type="button" id="view-film-btn" aria-pressed="true"></button>
         </nav>
+        <p id="listing-freshness" role="status" aria-live="polite" style="font-size:.85rem"></p>
         <section class="controls-section">
             <div class="primary-controls">
                 <div class="search-wrapper">
@@ -943,18 +944,15 @@
 <li><a href="https://cinematokyo.com/film/film-24cafbb8/">『 トロピカルミステリー 青春共和国』</a></li>
 <li><a href="https://cinematokyo.com/film/abadland-0877eb6f/">【Aプログラム】BADLAND／そしてナイフを手にした</a></li>
 <li><a href="https://cinematokyo.com/film/c-0e961c56/">【Cプログラム】夜のバカンス／おむかえ／パリ杉並区</a></li>
-<li><a href="https://cinematokyo.com/film/e-d15622d9/">【Eプログラム】薄情なゲーム／残るものについて／ブルーな蛸の日</a></li>
 <li><a href="https://cinematokyo.com/film/790718-stay-or-go/">いこかもどろか</a></li>
 <li><a href="https://cinematokyo.com/film/523200-ellie-my-love/">いとしのエリー</a></li>
 <li><a href="https://cinematokyo.com/film/jai-faim-jai-froid-4d195f20/">おなかすいた、寒い J’ai faim, j’ai froid</a></li>
-<li><a href="https://cinematokyo.com/film/film-7776141a/">この世界の（さらにいくつもの）片隅に【チョーキューメイ麗セレクト】</a></li>
 <li><a href="https://cinematokyo.com/film/70927-chie-the-brat/">じゃりン子チエ 劇場版</a></li>
 <li><a href="https://cinematokyo.com/film/500061-only-5-grams/">ほんの5g</a></li>
 <li><a href="https://cinematokyo.com/film/263358-american-stories-food-family-and-philosophy/">アメリカン・ストーリーズ／食事・家族・哲学</a></li>
 <li><a href="https://cinematokyo.com/film/93669-the-meetings-of-anna/">アンナの出会い</a></li>
 <li><a href="https://cinematokyo.com/film/437119-a-homance/">ア・ホーマンス</a></li>
 <li><a href="https://cinematokyo.com/film/86815-almayer-s-folly/">オルメイヤーの阿房宮</a></li>
-<li><a href="https://cinematokyo.com/film/18289-godzilla-vs-biollante/">ゴジラvsビオランテ</a></li>
 <li><a href="https://cinematokyo.com/film/golden-eighties-9a67a7ed/">ゴールデン・エイティーズ Golden Eighties</a></li>
 <li><a href="https://cinematokyo.com/film/2015-secret-sunshine/">シークレット・サンシャイン</a></li>
 <li><a href="https://cinematokyo.com/film/32691-nouvelle-vague/">ヌーヴェルヴァーグ</a></li>
@@ -967,9 +965,7 @@
 <li><a href="https://cinematokyo.com/film/1200972-melodrama/">メロドラマ</a></li>
 <li><a href="https://cinematokyo.com/film/16664-all-about-lily-chou-chou/">リリイ・シュシュのすべて</a></li>
 <li><a href="https://cinematokyo.com/film/63215-toute-une-nuit/">一晩中</a></li>
-<li><a href="https://cinematokyo.com/film/105255-the-mosquito-on-the-tenth-floor/">十階のモスキート</a></li>
 <li><a href="https://cinematokyo.com/film/sud-f36003c2/">南 Sud</a></li>
-<li><a href="https://cinematokyo.com/film/de-lautre-cote-308bd906/">向こう側から De l’Autre Coté</a></li>
 <li><a href="https://cinematokyo.com/film/47244-the-captive/">囚われの女</a></li>
 <li><a href="https://cinematokyo.com/film/452998-guys-who-never-learn-part-2/">塀の中のプレイ・ボール</a></li>
 <li><a href="https://cinematokyo.com/film/697560-dream-street/">夢見通りの人々</a></li>
@@ -980,13 +976,10 @@
 <li><a href="https://cinematokyo.com/film/164105-the-dancing-girl-of-izu/">恋の花咲く 伊豆の踊子</a></li>
 <li><a href="https://cinematokyo.com/film/433777-love-and-action-in-osaka/">悲しい色やねん</a></li>
 <li><a href="https://cinematokyo.com/film/dest-242a499c/">東から D’Est</a></li>
-<li><a href="https://cinematokyo.com/film/26896-like-grains-of-sand/">渚のシンドバッド</a></li>
 <li><a href="https://cinematokyo.com/film/825740-taki-no-shiraito/">瀧の白糸</a></li>
 <li><a href="https://cinematokyo.com/film/1773189-25-cats-from-qatar/">猫たちと7000マイルの旅</a></li>
-<li><a href="https://cinematokyo.com/film/117801-dreamy-fifteen/">翔んだカップル</a></li>
 <li><a href="https://cinematokyo.com/film/49479-saute-ma-ville/">街をぶっ飛ばせ</a></li>
 <li><a href="https://cinematokyo.com/film/742061-the-past-is-always-new-the-future-is-always-nostalgic-photographer-daido-moriyama/">過去はいつも新しく、未来はつねに懐かしい 写真家 森山大道</a></li>
-<li><a href="https://cinematokyo.com/film/451112-like-a-savage/">野蛮人のように</a></li>
 </ul></div></noscript>
                 <div class="loading" id="film-loading"></div>
             </div>
@@ -1170,6 +1163,10 @@
                     installIosHint: "共有ボタン → 「ホーム画面に追加」でアプリとして使えます",
                     footerDisclaimer: "上映情報は各劇場サイトから取得しています。最終確認は公式ページでお願いします。",
                     downloadJson: "上映情報JSONをダウンロード",
+                    collectedAt: "情報取得日時：",
+                    collectionUnknown: "情報取得日時を確認できません。劇場の公式サイトでご確認ください。",
+                    collectionStale: "上映情報が古くなっています。劇場の公式サイトでご確認ください。",
+                    collectionPartial: "一部の上映情報が不足している可能性があります。",
                     mapReset: "すべての地域を表示",
                     mapShow: "地図を表示",
                     mapHide: "地図を隠す",
@@ -1243,6 +1240,10 @@
                     installIosHint: "Tap Share → “Add to Home Screen” to use this page as an app",
                     footerDisclaimer: "Listings are scraped from cinema sites. Always double-check the booking page for last-minute changes.",
                     downloadJson: "Download raw showtimes JSON",
+                    collectedAt: "Listings collected: ",
+                    collectionUnknown: "Collection time is unavailable. Please check cinema websites.",
+                    collectionStale: "Listings are out of date. Please check cinema websites.",
+                    collectionPartial: "Some cinema listings may be incomplete.",
                     mapReset: "Show all regions",
                     mapShow: "Show map",
                     mapHide: "Hide map",
@@ -1346,6 +1347,7 @@
 
             const state = {
                 data: [],
+                scrapeStatus: null,
                 view: "film",
                 sort: "next-showing",
                 selectedCinema: "",
@@ -1706,7 +1708,25 @@
                 // Footer
                 elements.footerDisclaimer.textContent = t("footerDisclaimer");
                 elements.footerDownloadLink.textContent = t("downloadJson");
+                renderCollectionStatus();
             }
+            const collectionStatusText = (status, lang, now = Date.now()) => {
+                const messages = i18n[lang] || i18n.en;
+                const collected = Date.parse(status?.scraped_at || "");
+                const valid = Number.isFinite(collected) && collected <= now + 360000;
+                const timestamp = valid ? new Intl.DateTimeFormat(lang === "en" ? "en-GB" : "ja-JP", {
+                    timeZone: "Asia/Tokyo", dateStyle: "medium", timeStyle: "short"
+                }).format(new Date(collected)) + " JST" : "";
+                return !valid ? messages.collectionUnknown : [
+                    now - collected > 36 * 3600000 ? messages.collectionStale : "",
+                    messages.collectedAt + timestamp,
+                    status.source_issues?.length ? messages.collectionPartial : ""
+                ].filter(Boolean).join(" · ");
+            };
+            const renderCollectionStatus = () => {
+                const notice = document.getElementById("listing-freshness");
+                notice.textContent = collectionStatusText(state.scrapeStatus, state.lang);
+            };
             function getJstDateOffsetText(offsetDays) {
                 const date = new Date(getJstDateText() + "T00:00:00+09:00");
                 date.setUTCDate(date.getUTCDate() + offsetDays);
@@ -3099,6 +3119,7 @@
                         if (!payload || !payload.films || !Array.isArray(payload.showings)) {
                             throw new Error("Unexpected slim payload");
                         }
+                        state.scrapeStatus = payload.scrape_status || null;
                         return inflateSlim(payload);
                     })
                     .catch(function () {
@@ -3114,6 +3135,7 @@
                         });
                         buildFilterOptions(state.data);
                         applySmartDefaultDate();
+                        renderCollectionStatus();
                         render();
                     })
                     .catch(function () {
