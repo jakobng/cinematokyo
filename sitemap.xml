@@ -1,54 +1,507 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://cinematokyo.com/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/atsugi-no-eigakan-kiki/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/bunkamura/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/chiba-gekijo/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/cine-switch-ginza/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/cineka-omori/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/cinekoya/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/cinema/</loc></url>
   <url><loc>https://cinematokyo.com/cinema/cinema-2/</loc></url>
   <url><loc>https://cinematokyo.com/cinema/cinema-amigo/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/cinema-chupki-tabata/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/cinema-city/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/cinema-neko/</loc></url>
   <url><loc>https://cinematokyo.com/cinema/cinema-novecento/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/cinema-vera-shibuya/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/cinemaris/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/cinemart-shinjuku/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/eurospace/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/fukaya-cinema/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/human-trust-cinema-shibuya/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/human-trust-cinema-yurakucho/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/ikebukuro-cinema-rosa/</loc></url>
   <url><loc>https://cinematokyo.com/cinema/institut-francais-tokyo/</loc></url>
   <url><loc>https://cinematokyo.com/cinema/jinbocho-theater/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/k2-cinema/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/kadokawa-cinema-yurakucho/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/kawasaki-art-center/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/kichijoji-odeon/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/kinema-junpo-theater/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/kino-cinema-shinjuku/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/kino-cinema-tachikawa/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/kino-cinema-yokohama-minatomirai/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/ks-cinema/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/laputa-asagaya/</loc></url>
   <url><loc>https://cinematokyo.com/cinema/meguro-cinema/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/morc-asagaya/</loc></url>
   <url><loc>https://cinematokyo.com/cinema/national-film-archive/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/odawara-cinema/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/pole-pole-higashi-nakano/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/shimokitazawa-tollywood/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/shimotakaido-cinema/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/shin-bungeiza/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/stranger/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/theater-guild-daikanyama/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/theatre-image-forum/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/theatre-shinjuku/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/togeki/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/tokyo-photographic-art-museum/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/uplink-kichijoji/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/waseda-shochiku/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/white-cine-quinto/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/yebisu-garden-cinema/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/yokohama-cinema-jack-and-betty/</loc></url>
+  <url><loc>https://cinematokyo.com/cinema/yokohama-cinemarine/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1-786942a9/</loc></url>
+  <url><loc>https://cinematokyo.com/film/100-b3f1d5e6/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1008038-riceboy-sleeps/</loc></url>
+  <url><loc>https://cinematokyo.com/film/104251-pastoral-to-die-in-the-country/</loc></url>
+  <url><loc>https://cinematokyo.com/film/104465-moonlight-whispers/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1058664-invisible-beauty/</loc></url>
+  <url><loc>https://cinematokyo.com/film/106219-ticket-of-no-return/</loc></url>
+  <url><loc>https://cinematokyo.com/film/106373-that-day-on-the-beach/</loc></url>
+  <url><loc>https://cinematokyo.com/film/106380-taipei-story/</loc></url>
   <url><loc>https://cinematokyo.com/film/106760-angel-guts-red-vertigo/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1072371-jules/</loc></url>
+  <url><loc>https://cinematokyo.com/film/107531-freak-orlando/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1083381-backrooms/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1111614-mirai-ni-tsunagaru-ko-ra/</loc></url>
+  <url><loc>https://cinematokyo.com/film/11216-cinema-paradiso/</loc></url>
+  <url><loc>https://cinematokyo.com/film/11257-a-room-with-a-view/</loc></url>
+  <url><loc>https://cinematokyo.com/film/11416-the-mission/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1142089-oban/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1142457-zoku-oban-fuun-hen/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1143394-cat-video-fest-2023/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1151272-sirat/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1153576-street-fighter/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1160360-if-i-had-legs-i-d-kick-you/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1167863-black-ox/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1169789-bob-trevino-likes-it/</loc></url>
+  <url><loc>https://cinematokyo.com/film/117472-dragnet-girl/</loc></url>
+  <url><loc>https://cinematokyo.com/film/11906-suspiria/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1190669-land-of-my-dreams/</loc></url>
+  <url><loc>https://cinematokyo.com/film/11935-capricorn-one/</loc></url>
+  <url><loc>https://cinematokyo.com/film/119947-village-of-eight-gravestones/</loc></url>
+  <url><loc>https://cinematokyo.com/film/12-5aee4d27/</loc></url>
+  <url><loc>https://cinematokyo.com/film/120-f972b702/</loc></url>
   <url><loc>https://cinematokyo.com/film/1200972-melodrama/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1208284-two-to-one/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1212271-eleanor-the-great/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1214539-soundtrack-to-a-coup-d-etat/</loc></url>
+  <url><loc>https://cinematokyo.com/film/121873-hannah-arendt/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1225624-on-falling/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1228046-thee-michelle-gun-elephant-thee-movie-last-heaven-031011/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1230611-onna-ikitemasu-sakariba-wataridori/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1234601-direct-action/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1235304-colours-of-time/</loc></url>
+  <url><loc>https://cinematokyo.com/film/123651-an-egyptian-story/</loc></url>
+  <url><loc>https://cinematokyo.com/film/123652-alexandria-again-and-forever/</loc></url>
   <url><loc>https://cinematokyo.com/film/1245728-peacock/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1248832-digger/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1254808-nouvelle-vague/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1255833-whalefall/</loc></url>
+  <url><loc>https://cinematokyo.com/film/125815-h-story/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1258509-the-love-that-remains/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1259125-park/</loc></url>
+  <url><loc>https://cinematokyo.com/film/126219-a-hen-in-the-wind/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1262815-the-choral/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1263337-heart-of-the-beast/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1275779-disclosure-day/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1291608-dhurandhar/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1295026-100-meters/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1295400-the-last-viking/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1301883-ghosts-die-at-dawn/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1308545-linka-linka/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1316719-the-ugly/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1325734-the-drama/</loc></url>
+  <url><loc>https://cinematokyo.com/film/133-primary/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1356587-the-lychee-road/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1368337-the-odyssey/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1369775-rollercoaster-the-story-of-bay-city-roller-stuart-woody-wood/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1374315-writing-hawa/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1376146-hit-n-fun/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1393151-mr-nobody-against-putin/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1400789-2000-meters-to-andriivka/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1411007-welded-together/</loc></url>
+  <url><loc>https://cinematokyo.com/film/141301-letter-from-the-mountain/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1422637-dear-tomorrow/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1423191-resident-evil/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1423984-the-ozu-diaries/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1425485-3670/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1443940-truth-treason/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1445964-the-battle-of-chile-the-struggle-of-an-unarmed-people/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1448971-nagi-notes/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1453589-my-grandfather-is-a-nihonjin/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1456349-it-was-just-an-accident/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1457188-pompei-below-the-clouds/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1476614-all-of-a-sudden/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1480382-the-voice-of-hind-rajab/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1487887-the-pigeon/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1489932-always-lalisa/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1491083-bayside-shakedown-n-e-w/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1495096-kronos-kairos/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1496928-we-are-aliens/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1497946-mr-nelson-did-you-kill-people/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1503974-cat-video-fest-2025/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1510333-hair-paper-water/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1511675-kingdom-5/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1529450-spi/</loc></url>
+  <url><loc>https://cinematokyo.com/film/15319-after-the-rain/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1537174-particle-dance/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1546640-i-was-i-am-and-i-will-be/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1547224-farmors-leriga-hander-en-film-om-lisa-larson/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1548335-hakishka/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1548556-i-was-a-teenage-sex-pistol/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1553200-rascal-does-not-dream-of-a-dear-friend/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1571733-hanayome-no-o-noroke/</loc></url>
+  <url><loc>https://cinematokyo.com/film/15719-do-not-disturb/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1575337-cosmic-princess-kaguya/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1575872-mentor/</loc></url>
+  <url><loc>https://cinematokyo.com/film/15860-dragon-tiger-gate/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1586876-chiikawa-the-movie-the-secret-of-the-mermaid-island/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1587-what-s-eating-gilbert-grape/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1590933-you-like-a-star/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1591675-look-back/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1592548-girls-und-panzer-das-finale-part-5/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1595400-matched-true-love/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1600745-the-whole-floor-is-like-this/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1607728-voices-from-gaza-episode-1-ahmad-s-story/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1614539-ave-mujica-prima-aurora/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1620313-the-samurai-and-the-prisoner/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1621964-the-swan-and-the-bat/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1624812-magical-secret-tour/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1626-vivre-sa-vie/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1628081-i-don-t-know-you/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1631314-you-are-the-film/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1632015-to-you-in-the-beyond/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1637635-unchained/</loc></url>
   <url><loc>https://cinematokyo.com/film/164105-the-dancing-girl-of-izu/</loc></url>
-  <url><loc>https://cinematokyo.com/film/16664-all-about-lily-chou-chou/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1651263-shadow-work/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1652668-home-sweet-home/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1654276-lives-at-right-angles/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1654870-goodbye-my-car/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1661276-shiranui/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1663937-star-detective-pretty-cure-the-movie-the-mysterious-garden-and-the-pairs-secret/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1665783-voices-from-gaza-episode-2-ahmad-the-musicians-message/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1675182-all-our-tomorrows/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1681834/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1687667-get-undressed/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1688584-ghost-of-ueno/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1688934-part-time-death-angel/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1690296-satoko-always/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1692852-children-untold/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1697647-shumei-the-living-legacy-of-kabuki/</loc></url>
   <url><loc>https://cinematokyo.com/film/169969-disciples-of-hippocrates/</loc></url>
+  <url><loc>https://cinematokyo.com/film/17-45-peacock-5943b731/</loc></url>
+  <url><loc>https://cinematokyo.com/film/17-45-sirat-dda5f5cc/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1704357-hot-spring-shark-attack-2-great-kyushu-showdown/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1705721-how-to-generate-a-perfect-crime/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1706689-first-voice/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1715073-now-and-then/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1719557-the-living-dragon/</loc></url>
+  <url><loc>https://cinematokyo.com/film/172978-full-moon/</loc></url>
+  <url><loc>https://cinematokyo.com/film/177298-bayou-maharajah-the-tragic-genius-of-james-booker/</loc></url>
   <url><loc>https://cinematokyo.com/film/1773189-25-cats-from-qatar/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1784483/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1786485-darwin-s-amazing-animals-cats-around-the-world/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1787681-f-r-iction/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1788171-kiriko-s-baton-yell/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1788907-tokyo-above-300-meters/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1792352/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1793343-a-trout-and-the-last-waltz/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1793788-queen-budapest/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1794206/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1799159/</loc></url>
+  <url><loc>https://cinematokyo.com/film/18148-tokyo-story/</loc></url>
+  <url><loc>https://cinematokyo.com/film/186068-breaking-the-frame/</loc></url>
+  <url><loc>https://cinematokyo.com/film/189025-a-scream-from-nowhere/</loc></url>
+  <url><loc>https://cinematokyo.com/film/19-a-ff365097/</loc></url>
+  <url><loc>https://cinematokyo.com/film/191732-the-other-day/</loc></url>
+  <url><loc>https://cinematokyo.com/film/1958-b598402c/</loc></url>
+  <url><loc>https://cinematokyo.com/film/19b-7af18a7f/</loc></url>
+  <url><loc>https://cinematokyo.com/film/19c-5298b7e2/</loc></url>
+  <url><loc>https://cinematokyo.com/film/20126-deep-red/</loc></url>
   <url><loc>https://cinematokyo.com/film/2015-secret-sunshine/</loc></url>
+  <url><loc>https://cinematokyo.com/film/205980-south/</loc></url>
+  <url><loc>https://cinematokyo.com/film/21-438ef809/</loc></url>
+  <url><loc>https://cinematokyo.com/film/2108-the-breakfast-club/</loc></url>
+  <url><loc>https://cinematokyo.com/film/21291-dad/</loc></url>
+  <url><loc>https://cinematokyo.com/film/21452-case-closed-the-fourteenth-target/</loc></url>
+  <url><loc>https://cinematokyo.com/film/21930-gamera-the-giant-monster/</loc></url>
+  <url><loc>https://cinematokyo.com/film/224756-dorian-gray-in-the-mirror-of-the-yellow-press/</loc></url>
+  <url><loc>https://cinematokyo.com/film/22899-gamera-vs-barugon/</loc></url>
+  <url><loc>https://cinematokyo.com/film/235055-down-there/</loc></url>
+  <url><loc>https://cinematokyo.com/film/241410-luxurious-bone/</loc></url>
+  <url><loc>https://cinematokyo.com/film/242310-rage/</loc></url>
+  <url><loc>https://cinematokyo.com/film/261860-dior-and-i/</loc></url>
   <url><loc>https://cinematokyo.com/film/263358-american-stories-food-family-and-philosophy/</loc></url>
+  <url><loc>https://cinematokyo.com/film/26347-notre-musique/</loc></url>
+  <url><loc>https://cinematokyo.com/film/26638-red-desert/</loc></url>
+  <url><loc>https://cinematokyo.com/film/268011-the-price-of-coal-part-1-meet-the-people/</loc></url>
+  <url><loc>https://cinematokyo.com/film/269-breathless/</loc></url>
+  <url><loc>https://cinematokyo.com/film/270055-love-letter/</loc></url>
+  <url><loc>https://cinematokyo.com/film/27372-there-was-a-father/</loc></url>
+  <url><loc>https://cinematokyo.com/film/275605-the-house-of-the-sleeping-virgins/</loc></url>
+  <url><loc>https://cinematokyo.com/film/2786-pierrot-le-fou/</loc></url>
+  <url><loc>https://cinematokyo.com/film/2813-violette-noziere/</loc></url>
+  <url><loc>https://cinematokyo.com/film/28272-equinox-flower/</loc></url>
+  <url><loc>https://cinematokyo.com/film/28276-good-morning/</loc></url>
+  <url><loc>https://cinematokyo.com/film/29269-tony-takitani/</loc></url>
+  <url><loc>https://cinematokyo.com/film/29568-in-the-city-of-sylvia/</loc></url>
+  <url><loc>https://cinematokyo.com/film/300590-wind-woman-and-road/</loc></url>
+  <url><loc>https://cinematokyo.com/film/308360-bridge-of-japan/</loc></url>
+  <url><loc>https://cinematokyo.com/film/309835-the-first-year/</loc></url>
+  <url><loc>https://cinematokyo.com/film/314400-blood-of-my-blood/</loc></url>
+  <url><loc>https://cinematokyo.com/film/31522-a-woman-is-a-woman/</loc></url>
+  <url><loc>https://cinematokyo.com/film/316890-dog-lady/</loc></url>
+  <url><loc>https://cinematokyo.com/film/31767-the-devils/</loc></url>
+  <url><loc>https://cinematokyo.com/film/32022-case-closed-countdown-to-heaven/</loc></url>
+  <url><loc>https://cinematokyo.com/film/324021-the-tale-of-himeji-castle/</loc></url>
+  <url><loc>https://cinematokyo.com/film/324375-mother/</loc></url>
   <url><loc>https://cinematokyo.com/film/32691-nouvelle-vague/</loc></url>
+  <url><loc>https://cinematokyo.com/film/3350-93b72f29/</loc></url>
+  <url><loc>https://cinematokyo.com/film/346279-father-s-day/</loc></url>
   <url><loc>https://cinematokyo.com/film/354388-no-home-movie/</loc></url>
+  <url><loc>https://cinematokyo.com/film/360453-brother-and-sister/</loc></url>
+  <url><loc>https://cinematokyo.com/film/37293-stakeout/</loc></url>
+  <url><loc>https://cinematokyo.com/film/37673-destiny/</loc></url>
+  <url><loc>https://cinematokyo.com/film/37836-judgement/</loc></url>
+  <url><loc>https://cinematokyo.com/film/402298-denial/</loc></url>
+  <url><loc>https://cinematokyo.com/film/406-la-haine/</loc></url>
+  <url><loc>https://cinematokyo.com/film/40939-alexandria-why/</loc></url>
+  <url><loc>https://cinematokyo.com/film/42031-hour-of-the-star/</loc></url>
+  <url><loc>https://cinematokyo.com/film/432703-the-senior-class/</loc></url>
   <url><loc>https://cinematokyo.com/film/433777-love-and-action-in-osaka/</loc></url>
   <url><loc>https://cinematokyo.com/film/437119-a-homance/</loc></url>
+  <url><loc>https://cinematokyo.com/film/43877-osaka-elegy/</loc></url>
+  <url><loc>https://cinematokyo.com/film/451992-location/</loc></url>
   <url><loc>https://cinematokyo.com/film/452998-guys-who-never-learn-part-2/</loc></url>
+  <url><loc>https://cinematokyo.com/film/45987-taira-clan-saga/</loc></url>
+  <url><loc>https://cinematokyo.com/film/46069-the-story-of-the-last-chrysanthemum/</loc></url>
+  <url><loc>https://cinematokyo.com/film/46101-united-red-army/</loc></url>
+  <url><loc>https://cinematokyo.com/film/461517-the-twilight-years/</loc></url>
+  <url><loc>https://cinematokyo.com/film/46175-daughters-of-darkness/</loc></url>
+  <url><loc>https://cinematokyo.com/film/46918-floating-weeds/</loc></url>
+  <url><loc>https://cinematokyo.com/film/47184-repast/</loc></url>
   <url><loc>https://cinematokyo.com/film/47244-the-captive/</loc></url>
+  <url><loc>https://cinematokyo.com/film/473702-we-who-dwell-in-the-mountains-cannot-be-blamed-for-being-there/</loc></url>
+  <url><loc>https://cinematokyo.com/film/476-drugstore-cowboy/</loc></url>
   <url><loc>https://cinematokyo.com/film/47909-poetry/</loc></url>
   <url><loc>https://cinematokyo.com/film/48207-melody/</loc></url>
+  <url><loc>https://cinematokyo.com/film/489879-yayoi-kusama-i-love-me/</loc></url>
   <url><loc>https://cinematokyo.com/film/491584-burning/</loc></url>
+  <url><loc>https://cinematokyo.com/film/493263-okoto-and-sasuke/</loc></url>
   <url><loc>https://cinematokyo.com/film/49479-saute-ma-ville/</loc></url>
+  <url><loc>https://cinematokyo.com/film/496328-sanju/</loc></url>
   <url><loc>https://cinematokyo.com/film/500061-only-5-grams/</loc></url>
+  <url><loc>https://cinematokyo.com/film/50247-early-summer/</loc></url>
+  <url><loc>https://cinematokyo.com/film/50759-an-autumn-afternoon/</loc></url>
+  <url><loc>https://cinematokyo.com/film/5165-l-avventura/</loc></url>
+  <url><loc>https://cinematokyo.com/film/51808-six-in-paris/</loc></url>
+  <url><loc>https://cinematokyo.com/film/519278-the-maiden-courtesan/</loc></url>
+  <url><loc>https://cinematokyo.com/film/51929-the-emperor-s-naked-army-marches-on/</loc></url>
   <url><loc>https://cinematokyo.com/film/523200-ellie-my-love/</loc></url>
+  <url><loc>https://cinematokyo.com/film/52717-in-praise-of-love/</loc></url>
+  <url><loc>https://cinematokyo.com/film/52728-gamera-vs-gyaos/</loc></url>
+  <url><loc>https://cinematokyo.com/film/536381-death-by-metal/</loc></url>
+  <url><loc>https://cinematokyo.com/film/537366-a-modern-yakuza-three-decoy-blood-brothers/</loc></url>
+  <url><loc>https://cinematokyo.com/film/54083-film-socialisme/</loc></url>
+  <url><loc>https://cinematokyo.com/film/54433-gamera-the-guardian-of-the-universe/</loc></url>
+  <url><loc>https://cinematokyo.com/film/571686-her-hidden-past/</loc></url>
+  <url><loc>https://cinematokyo.com/film/587-big-fish/</loc></url>
+  <url><loc>https://cinematokyo.com/film/5879-in-the-realm-of-the-senses/</loc></url>
+  <url><loc>https://cinematokyo.com/film/59480-gamera-2-advent-of-legion/</loc></url>
+  <url><loc>https://cinematokyo.com/film/599978-murder-in-the-front-row-the-san-francisco-bay-area-thrash-metal-story/</loc></url>
+  <url><loc>https://cinematokyo.com/film/60159-gamera-3-revenge-of-iris/</loc></url>
   <url><loc>https://cinematokyo.com/film/60portrait-dune-jeune-fille-de-la-fin-des-annees-60-a-bruxelle-da7bae2d/</loc></url>
+  <url><loc>https://cinematokyo.com/film/616610-the-green-mountain/</loc></url>
+  <url><loc>https://cinematokyo.com/film/621754-cunningham/</loc></url>
   <url><loc>https://cinematokyo.com/film/63215-toute-une-nuit/</loc></url>
+  <url><loc>https://cinematokyo.com/film/637-life-is-beautiful/</loc></url>
+  <url><loc>https://cinematokyo.com/film/63763-window-shopping/</loc></url>
+  <url><loc>https://cinematokyo.com/film/649096-the-poets-visit-juana-bignozzi/</loc></url>
+  <url><loc>https://cinematokyo.com/film/662638-detective-conan-the-scarlet-bullet/</loc></url>
+  <url><loc>https://cinematokyo.com/film/67263-alpine-fire/</loc></url>
   <url><loc>https://cinematokyo.com/film/697560-dream-street/</loc></url>
+  <url><loc>https://cinematokyo.com/film/703-b0e029d2/</loc></url>
+  <url><loc>https://cinematokyo.com/film/70322-gamera-vs-zigra/</loc></url>
+  <url><loc>https://cinematokyo.com/film/70327-gamera-vs-jiger/</loc></url>
   <url><loc>https://cinematokyo.com/film/70927-chie-the-brat/</loc></url>
+  <url><loc>https://cinematokyo.com/film/717787-your-letter/</loc></url>
+  <url><loc>https://cinematokyo.com/film/72592-honey-and-clover/</loc></url>
+  <url><loc>https://cinematokyo.com/film/73138-face/</loc></url>
+  <url><loc>https://cinematokyo.com/film/74126-record-of-a-tenement-gentleman/</loc></url>
   <url><loc>https://cinematokyo.com/film/742061-the-past-is-always-new-the-future-is-always-nostalgic-photographer-daido-moriyama/</loc></url>
+  <url><loc>https://cinematokyo.com/film/74581-sisters-of-the-gion/</loc></url>
+  <url><loc>https://cinematokyo.com/film/758679-mothers-instinct/</loc></url>
+  <url><loc>https://cinematokyo.com/film/78450-terrorizers/</loc></url>
+  <url><loc>https://cinematokyo.com/film/786-almost-famous/</loc></url>
   <url><loc>https://cinematokyo.com/film/790718-stay-or-go/</loc></url>
+  <url><loc>https://cinematokyo.com/film/793058-hi-five/</loc></url>
+  <url><loc>https://cinematokyo.com/film/8073-band-of-outsiders/</loc></url>
+  <url><loc>https://cinematokyo.com/film/822653-puella-magi-madoka-magica-the-movie-walpurgisnacht-rising/</loc></url>
   <url><loc>https://cinematokyo.com/film/825740-taki-no-shiraito/</loc></url>
+  <url><loc>https://cinematokyo.com/film/8426-swallowtail-butterfly/</loc></url>
+  <url><loc>https://cinematokyo.com/film/851973-hikoroku-laughs-a-lot/</loc></url>
   <url><loc>https://cinematokyo.com/film/86814-news-from-home/</loc></url>
   <url><loc>https://cinematokyo.com/film/86815-almayer-s-folly/</loc></url>
+  <url><loc>https://cinematokyo.com/film/871316-rising-up-at-night/</loc></url>
+  <url><loc>https://cinematokyo.com/film/873797-pretty-crazy/</loc></url>
+  <url><loc>https://cinematokyo.com/film/883222-nagisa-no-koibito-tachi/</loc></url>
+  <url><loc>https://cinematokyo.com/film/89-2863b8a1/</loc></url>
+  <url><loc>https://cinematokyo.com/film/891933-sometimes-i-think-about-dying/</loc></url>
+  <url><loc>https://cinematokyo.com/film/9-05cec218/</loc></url>
+  <url><loc>https://cinematokyo.com/film/91088-the-king-of-pigs/</loc></url>
+  <url><loc>https://cinematokyo.com/film/91426-princess-yang-kwei-fei/</loc></url>
+  <url><loc>https://cinematokyo.com/film/916738-nam-june-paik-moon-is-the-oldest-tv/</loc></url>
+  <url><loc>https://cinematokyo.com/film/936075-michael/</loc></url>
   <url><loc>https://cinematokyo.com/film/93669-the-meetings-of-anna/</loc></url>
-  <url><loc>https://cinematokyo.com/film/abadland-0877eb6f/</loc></url>
+  <url><loc>https://cinematokyo.com/film/9390-jerry-maguire/</loc></url>
+  <url><loc>https://cinematokyo.com/film/945873-the-moments-we-lived/</loc></url>
+  <url><loc>https://cinematokyo.com/film/958496-my-imaginary-country/</loc></url>
+  <url><loc>https://cinematokyo.com/film/964849-nightborn/</loc></url>
+  <url><loc>https://cinematokyo.com/film/970348-the-old-oak/</loc></url>
+  <url><loc>https://cinematokyo.com/film/974521-no-bears/</loc></url>
+  <url><loc>https://cinematokyo.com/film/989909-customs-frontline/</loc></url>
+  <url><loc>https://cinematokyo.com/film/99002-nenette-and-boni/</loc></url>
+  <url><loc>https://cinematokyo.com/film/999075-left-handed-girl/</loc></url>
   <url><loc>https://cinematokyo.com/film/autour-de-jeanne-dielman-de-sami-frey-2e0c5f07/</loc></url>
-  <url><loc>https://cinematokyo.com/film/c-0e961c56/</loc></url>
+  <url><loc>https://cinematokyo.com/film/b-52-0af7124f/</loc></url>
+  <url><loc>https://cinematokyo.com/film/cronaca-di-un-amore-5d4a7296/</loc></url>
   <url><loc>https://cinematokyo.com/film/dest-242a499c/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-08890770/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-08e01069/</loc></url>
   <url><loc>https://cinematokyo.com/film/film-09276539/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-09f1d087/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-0be2e116/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-0f12e01f/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-13ec6080/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-180906b9/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-187d5da6/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-1b304573/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-1cef35d1/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-1dd7e77f/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-1e02817f/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-1fa4ed54/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-1fff6042/</loc></url>
   <url><loc>https://cinematokyo.com/film/film-24cafbb8/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-2762f539/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-2c51d03c/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-2dc9cab9/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-3ca2298d/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-3ccb63ba/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-3dd4b096/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-3ded9c52/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-43a96c6a/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-4509e580/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-47731a29/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-4b5b5211/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-52615422/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-529d9380/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-53670c1b/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-557467fa/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-585249af/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-5b2e35ba/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-60be7b82/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-64596a52/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-673619ee/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-68ec8f2e/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-712f6145/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-732891dc/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-73738c24/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-740e5b1d/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-77adb07f/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-781f817e/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-7a78d754/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-7cd1d5b8/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-7e2fbda7/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-80443d05/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-8203975a/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-859013a5/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-85e06458/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-86a5cd04/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-87102f9d/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-87f77de4/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-885c51e7/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-898bcb6a/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-89f2306f/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-8aae42af/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-8e99cb6a/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-9d1b02b9/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-9e1cc705/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-9f561119/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-9f914802/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-9fac3314/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-a15efceb/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-a24b84c3/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-a2ddf86b/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-a50b8b74/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-a52e1732/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-a54d7130/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-a6f9bf7b/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-a88c9284/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-ac7b9200/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-ad07f17f/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-adf64b5c/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-ae5dae3b/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-aec26447/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-b2ade855/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-b3743a03/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-b430ee44/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-b56005bb/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-b7759cd8/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-b8dbe602/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-b949815f/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-bab2bb49/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-be020b30/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-beed3650/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-c19ce99c/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-c2698086/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-c7f0139f/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-c877bf34/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-c87c3885/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-ca1bc132/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-cc0bff17/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-cf73efc8/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-cfc94a73/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-cfea967c/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-d08a6057/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-d0a5a0f7/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-d582bbf0/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-d6f0e137/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-d9dffc2f/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-da811b5f/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-dabd7f67/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-dfaf05bb/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-dfd668c6/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-e1268174/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-e20abb74/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-e3f6a256/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-e7feba6a/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-e9e60f2b/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-ef5b7c80/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-f04a376b/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-f3e37ede/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-f7eb6d89/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-f9cb88e5/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-fada81e7/</loc></url>
+  <url><loc>https://cinematokyo.com/film/film-fc71b9ce/</loc></url>
   <url><loc>https://cinematokyo.com/film/golden-eighties-9a67a7ed/</loc></url>
+  <url><loc>https://cinematokyo.com/film/i-vinti-824e7b26/</loc></url>
   <url><loc>https://cinematokyo.com/film/jai-faim-jai-froid-4d195f20/</loc></url>
   <url><loc>https://cinematokyo.com/film/la-bas-6d13efe5/</loc></url>
+  <url><loc>https://cinematokyo.com/film/la-batalla-de-chile-la-lucha-de-un-pueblo-sin-armas-the-battle-of-chile-90882081/</loc></url>
+  <url><loc>https://cinematokyo.com/film/le-amiche-0717ce85/</loc></url>
+  <url><loc>https://cinematokyo.com/film/part1-tv-23-2e2e1c8a/</loc></url>
+  <url><loc>https://cinematokyo.com/film/peace-power-bbf289ef/</loc></url>
+  <url><loc>https://cinematokyo.com/film/soul-to-soul-1008fb84/</loc></url>
   <url><loc>https://cinematokyo.com/film/sud-f36003c2/</loc></url>
+  <url><loc>https://cinematokyo.com/film/the-47-ronin-0b3ac55c/</loc></url>
+  <url><loc>https://cinematokyo.com/film/vol-267-124951a6/</loc></url>
+  <url><loc>https://cinematokyo.com/film/you-can-color-outside-the-lines-the-story-of-the-big-boys-7098a40d/</loc></url>
+  <url><loc>https://cinematokyo.com/film/you-can-color-outside-the-lines-the-story-of-the-big-boys-e52f676e/</loc></url>
   <url><loc>https://cinematokyo.com/today/</loc></url>
   <url><loc>https://cinematokyo.com/tonight/</loc></url>
   <url><loc>https://cinematokyo.com/weekend/</loc></url>
